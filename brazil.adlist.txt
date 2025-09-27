@@ -47,3 +47,11 @@ www.terra.com.br##div.ad-get-size
 www.terra.com.br##.card-ad-vert.card-ad.card
 www.terra.com.br##.navbar-modules-notifications
 
+
+www.ig.com.br###ad_leaderboard_top
+www.ig.com.br###h_banner
+www.ig.com.br##.publicidade.pub_300x250
+www.ig.com.br###ad_sponsor_video
+www.ig.com.br##.publicidade
+www.ig.com.br###ig-horoscopo
+www.ig.com.br##.header_signo
