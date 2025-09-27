@@ -1,0 +1,30 @@
+www.uol.com.br##.cardAd.cardAd--1190x70.cardAd--showLabel--true.section__grid__highlight__item
+www.uol.com.br##.blackBar
+www.uol.com.br##.fantascope-player.cardVideo__containerPlayer__player
+www.uol.com.br##.cardTicket__list
+www.uol.com.br##.cardTicket__headerCard.edgeToEdge--xs.headerCard
+www.uol.com.br##.cardAd.cardAd--173x66-1.cardAd--showLabel--true
+www.uol.com.br##div.sectionGrid__rows:nth-of-type(3) > div.row:nth-of-type(1) > .col-24.col-lg-8.sectionGrid__grid__columnThree
+www.uol.com.br###mfne92wkwlk > .section__grid__highlight.content > .section__grid__highlight__item.cardAd.cardAd--1190x330.cardAd--showLabel--true
+www.uol.com.br##[src*="https://imguol.com/c/noticias/7f/2025/03/31/offer-explica-freud-desktop-1743430084895_v2_225x315.png"]
+www.uol.com.br##.section__grid__aside__ad.cardAd.cardAd--320x100-extra-3-area.cardAd--showLabel--true
+www.uol.com.br###app > div > div > section.orderSections__section.section > .container > div.row > div.col-24 > .row.section__grid__main.content > .col-24.col-lg-15 > .section__grid__main__rows > .sectionGrid > div.sectionGrid__rows > div.row > .col-24.col-lg-8.sectionGrid__grid__columnThree > .cardOffer.sectionGrid__grid__columnThree__item > div > .offerImage > .hyperlink
+www.uol.com.br##.section__grid__highlight__item.cardAd.cardAd--970x250.cardAd--showLabel--true
+www.uol.com.br##.sectionGrid__grid__highlight__item.cardAd.cardAd--300x250-sport-section.cardAd--showLabel--true
+www.uol.com.br##.section__grid__highlight__item.cardAd.cardAd--1190x330-sport-section.cardAd--showLabel--true
+www.uol.com.br##.section__grid__aside__ad.cardAd.cardAd--320x50-extra-4-area.cardAd--showLabel--true
+www.uol.com.br##.sectionGrid__grid__highlight__item.cardAd.cardAd--300x250-entrete-area.cardAd--showLabel--true
+www.uol.com.br##.section__grid__aside__ad.cardAd.cardAd--320x50-extra-5-area.cardAd--showLabel--true
+www.uol.com.br##.section__grid__highlight__item.cardAd.cardAd--1190x330-entretenimento-area.cardAd--showLabel--true
+www.uol.com.br###uol-play-1190-340-area-1
+www.uol.com.br##.sectionGrid__grid__highlight__item.cardAd.cardAd--300x250-noticias-area.cardAd--showLabel--true
+www.uol.com.br##.section__grid__aside__ad.cardAd.cardAd--320x50-extra-6-area.cardAd--showLabel--true
+www.uol.com.br##.cardProducts.advertisementArea--showLabel.labelProducts.section__grid__highlight__item > div
+www.uol.com.br##section:nth-of-type(15)
+www.uol.com.br##section:nth-of-type(17) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)
+www.uol.com.br##section.orderSections__section.section:nth-of-type(18)
+www.uol.com.br##section:nth-of-type(19)
+www.uol.com.br##section.orderSections__section.section:nth-of-type(20)
+www.uol.com.br##.cardVideo__containerPlayer__overlay
+www.uol.com.br##.cardVideo__header.cardVideo__live__header
+www.uol.com.br##.cardVideo__containerPlayer
