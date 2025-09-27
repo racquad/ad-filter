@@ -28,3 +28,22 @@ www.uol.com.br##section.orderSections__section.section:nth-of-type(20)
 www.uol.com.br##.cardVideo__containerPlayer__overlay
 www.uol.com.br##.cardVideo__header.cardVideo__live__header
 www.uol.com.br##.cardVideo__containerPlayer
+
+
+www1.folha.uol.com.br###top-signup-close
+www1.folha.uol.com.br###c-top-signup-inner
+www1.folha.uol.com.br##div.c-subscribe-ads.c-subscribe-ads--azul:nth-of-type(2)
+
+
+g1.globo.com##.glb-mc-banner-top
+
+www.terra.com.br###header-full-ad-container
+www.terra.com.br##.card-ad-rect.card-ad.card
+www.terra.com.br###app-1649733
+www.terra.com.br###table-app-t360-sva-table
+www.terra.com.br##.table-range-flex.table-news.zaz-app-t360-horoscope-table
+www.terra.com.br###table-1649742 > .app-t360-subject-table__vert.app-t360-subject-table__base > .app-t360-subject-table__vert--grid.table-range-grid-step > .card-ad-vert.card-ad.card
+www.terra.com.br##div.ad-get-size
+www.terra.com.br##.card-ad-vert.card-ad.card
+www.terra.com.br##.navbar-modules-notifications
+
