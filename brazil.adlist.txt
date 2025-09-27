@@ -33,9 +33,24 @@ www.uol.com.br##.cardVideo__containerPlayer
 www1.folha.uol.com.br###top-signup-close
 www1.folha.uol.com.br###c-top-signup-inner
 www1.folha.uol.com.br##div.c-subscribe-ads.c-subscribe-ads--azul:nth-of-type(2)
+www1.folha.uol.com.br##.block--pub-super
+www1.folha.uol.com.br##.c-responsive-rotate-estudio-folha
+www1.folha.uol.com.br##.teads-player
+www1.folha.uol.com.br##.c-advertising
 
+
+noticias.uol.com.br##.campaign-container
+noticias.uol.com.br##.up-floating
+noticias.uol.com.br##.uolpd-video-inarticle
+noticias.uol.com.br##.jupiter-ads
 
 g1.globo.com##.glb-mc-banner-top
+g1.globo.com##.publicidade
+g1.globo.com##.bastian-feed-item
+g1.globo.com##.push-web-container
+g1.globo.com##glb-ad
+g1.globo.com##.next-article-sticky
+
 
 www.terra.com.br###header-full-ad-container
 www.terra.com.br##.card-ad-rect.card-ad.card
