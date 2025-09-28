@@ -1,3 +1,4 @@
+www.uol.com.br##.solar-comment
 noticias.uol.com.br##.solar-comment
 www1.folha.uol.com.br###comentarios
 g1.globo.com###boxComentarios
