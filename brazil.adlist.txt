@@ -46,7 +46,6 @@ noticias.uol.com.br##.jupiter-ads
 
 g1.globo.com##.glb-mc-banner-top
 g1.globo.com##.publicidade
-g1.globo.com##.bastian-feed-item
 g1.globo.com##.push-web-container
 g1.globo.com##glb-ad
 g1.globo.com##.next-article-sticky
